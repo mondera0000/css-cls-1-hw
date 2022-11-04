@@ -1,0 +1,46 @@
+h1{
+  font-size: 40px;
+  font-family: 'Kolker Brush', cursive;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  color:blueviolet;
+}
+img{
+
+ width: 500px;
+ height: 400px;
+
+}
+span{
+  
+  color:darkolivegreen;
+  font-size: 20px;
+  font-style: italic;
+}
+p{
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: deepskyblue;
+  text-align: justify;
+  line-height: 45px;
+
+}
+
+a{
+  text-decoration: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color:blueviolet;
+  color: beige;
+  width: 100px;
+  height: 50px;
+  display: block;
+  text-align: center;
+  line-height: 40px; 
+}
+
+
+
+
+
+
+
